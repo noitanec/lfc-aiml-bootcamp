@@ -6,3 +6,5 @@ seaborn
 xgboost
 pyqt6
 matplotlib
+opencv-python
+pillow
